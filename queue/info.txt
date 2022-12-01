@@ -1,0 +1,3 @@
+A fila (queue) é uma estrutura de dados que como o nome sugere, consiste em armazenar elementos em fila, ou seja, o primeiro elemento a entrar é o primeiro a sair.
+
+*É uma estrutura do tipo FIFO (First in First out), ou seja, o primeiro a entrar é o primeiro a sair.
