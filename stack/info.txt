@@ -1,0 +1,5 @@
+A pilha (stack) é uma estrutura de dados que consiste em armazenar os elementos empilhado um após o outro, possuindo duas estremidades (base e topo) cada item que é adicionado vai sendo armazenado abaixo do outro e sempre esse último item inserido será o primeiro a sair da pilha caso solicitado.
+
+*Essa estrutura é do tipo LIFO (Last in Firts out), ou seja, o último item inserido é o primeiro a ser removido
+*Topo é o local em que está o último elemento inserido
+*Base é o local em que está o primeiro elemento inserido e que caso todos sejam removidos será o último a sair.
