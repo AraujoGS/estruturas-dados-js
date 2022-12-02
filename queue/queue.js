@@ -10,7 +10,7 @@ class Queue {
     this.lowestCount = 0
   }
   size () {
-    return this.count
+    return this.count - this.lowestCount
   }
   isEmpty () {
     return this.size() === 0
@@ -31,7 +31,6 @@ class Queue {
     }
     const element = this.items[this.lowestCount]
     delete this.items[this.lowestCount]
-    this.count--
     this.lowestCount++
     return element
   }
