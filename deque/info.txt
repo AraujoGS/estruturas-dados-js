@@ -1,0 +1,3 @@
+A fila de duas pontas (Deque) é um tipo especial de fila que permite inserir ou remover elementos por duas vias, o inicio e o fim da fila.
+
+*É como unir a estrutura da dados pilha e fila em uma nova estrutura
